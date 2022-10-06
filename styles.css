@@ -6,6 +6,24 @@
     --night-forest: #2F3E46;
 }  
 
+* {
+    border: 1px solid teal;
+}                  
+
 body { 
     background-color: darkseagreen;
 }
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: var(--night-forest);
+    color: var(--pale-sage);
+  }                  
+  .container {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+}                  
