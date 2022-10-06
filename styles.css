@@ -1,3 +1,11 @@
+:root {
+    --pale-sage: #BFF4CB;
+    --sage: #84A98C;
+    --dusty-emerald: #52796f;
+    --deep-emerald: #354F52;
+    --night-forest: #2F3E46;
+}  
+
 body { 
     background-color: darkseagreen;
 }
